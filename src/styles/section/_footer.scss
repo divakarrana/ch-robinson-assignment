@@ -1,0 +1,30 @@
+.Footer {
+  background-color: $gray-dark;
+  color: $gray-light;
+  height: 12vw;
+  min-height: 9rem;
+  margin-top: 5rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+
+  footer {
+    border-top: 1px solid $gray-light;
+    width: 80%;
+  }
+
+  i {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    cursor: pointer;
+  }
+
+  span {
+    font-size: 1.5rem;
+    margin-right: 4rem;
+    cursor: pointer;
+  }
+}

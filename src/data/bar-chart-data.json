@@ -1,0 +1,62 @@
+[
+ {
+   "month": "Jan, 2019",
+   "delivered": 26167,
+   "undelivered": 2735
+ },
+ {
+   "month": "Feb, 2019",
+   "delivered": 7370,
+   "undelivered": 850
+ },
+ {
+   "month": "Mar, 2019",
+   "delivered": 1000,
+   "undelivered": 1200
+ },
+ {
+   "month": "Apr, 2019",
+   "delivered": 412,
+   "undelivered": 200
+ },
+ {
+   "month": "May, 2019",
+   "delivered": 70409,
+   "undelivered": 13184
+ },
+ {
+   "month": "Jun, 2019",
+   "delivered": 45554,
+   "undelivered": 2359
+ },
+ {
+   "month": "Jul, 2019",
+   "delivered": 28764,
+   "undelivered": 11899
+ },
+ {
+   "month": "Aug, 2019",
+   "delivered": 13,
+   "undelivered": 284
+ },
+ {
+   "month": "Sep, 2019",
+   "delivered": 26167,
+   "undelivered": 2735
+ },
+ {
+   "month": "Oct, 2019",
+   "delivered": 1524,
+   "undelivered": 1312
+ },
+ {
+   "month": "Nov, 2019",
+   "delivered": 6761,
+   "undelivered": 1918
+ },
+ {
+   "month": "Dec, 2019",
+   "delivered": 10453,
+   "undelivered": 9609
+ }
+]

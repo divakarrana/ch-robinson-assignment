@@ -1,0 +1,57 @@
+.Chart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 2rem;
+
+  p {
+    font-size: 1.5rem;
+    margin-bottom: 3rem;
+
+    select {
+      outline: none;
+      font-family: inherit;
+      border: 2px solid $color-secondary;
+      border-radius: 0.5rem;
+      font-weight: bold;
+
+      &:hover {
+        cursor: pointer;
+      }
+    }
+  }
+}
+
+line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+  opacity: 0.3;
+}
+
+.grid line {
+  stroke: lightgrey;
+  stroke-opacity: 0.7;
+  shape-rendering: crispEdges;
+}
+
+.grid path {
+  stroke-width: 0;
+}
+
+.backBtn {
+  outline: none;
+  font-family: inherit;
+  border: 2px solid $color-secondary;
+  border-radius: 0.5rem;
+  font-weight: bold;
+  background-color: $white-background;
+  width: 10rem;
+  height: 3rem;
+  margin-bottom: 5rem;
+
+  &:hover {
+    cursor: pointer;
+  }
+}

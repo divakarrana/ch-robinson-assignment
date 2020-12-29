@@ -1,0 +1,58 @@
+[
+	{
+		"month": "Month 1",
+		"previous": 25443,
+		"current": 43267,
+		"previousAmount":32420,
+		"currentAmount":67927.4099227488,
+		"number": 1
+	},
+	{
+		"month": "Month 2",
+		"previous": 57856,
+		"current": 64851,
+		"previousAmount":46560,
+		"currentAmount":68375.3398104608,
+		"number": 2
+	},
+	{
+		"month": "Month 3",
+		"previous": 11000,
+		"current": 23523,
+		"previousAmount":22220,
+		"currentAmount":39156.0599059909,
+		"number": 3
+	},
+	{
+		"month": "Month 4",
+		"previous": 14035,
+		"current": 65719,
+		"previousAmount":53530,
+		"currentAmount":118114.580228645,
+		"number": 4
+	},
+	{
+		"month": "Month 5",
+		"previous": 73434,
+		"current": 33984,
+		"previousAmount":11110,
+		"currentAmount":71309.0299270525,
+		"number": 5
+	},
+	{
+		"month": "Month 6",
+		"previous": 11900,
+		"current": 53109,
+		"previousAmount":70560,
+		"currentAmount":62360.3499474823,
+		"number": 6
+	},
+	{
+		"month": "Month 7",
+		"previous": 16000,
+		"current": 0,
+		"previousAmount":25550,
+		"currentAmount":0,
+		"number": 7
+	}
+]

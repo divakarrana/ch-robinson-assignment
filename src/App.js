@@ -1,23 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+
+import Header from './components/Header/Header';
+import Chart from './components/Chart/Chart';
+import Datatable from './components/Datatable/Datatable';
+import Footer from './components/Footer/Footer';
+import barData from "./data/bar-chart-data.json";
+import lineBarData from "./data/line-bar-chart-data.json";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Header />
+      <Chart barData={barData} lineBarData={lineBarData}/>
+      <Datatable barData={barData}/>
+      <Footer />
     </div>
   );
 }
